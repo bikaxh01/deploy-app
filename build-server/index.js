@@ -8,8 +8,8 @@ import  {S3Client, PutObjectCommand } from '@aws-sdk/client-s3'
 const s3 = new S3Client({
     region:'us-east-1',
     credentials:{
-        accessKeyId:'AKIA4OFX6TGPAABTX3DG',
-        secretAccessKey:'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'
+        accessKeyId:'',
+        secretAccessKey:''
     }
 })
 

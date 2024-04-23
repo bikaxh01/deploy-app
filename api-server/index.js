@@ -10,8 +10,8 @@ app.use(express.json())
 const ecs = new ECSClient({
   region: "us-east-1",
   credentials: {
-    accessKeyId: "AKIA4OFX6TGPAABTX3DG",
-    secretAccessKey: "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",
+    accessKeyId: "",
+    secretAccessKey: "",
   },
 });
 
